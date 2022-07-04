@@ -132,3 +132,13 @@ h2{
         background-color: #ffffff;
     }
 }
+
+@media screen and (max-width: 375px) {
+    .centralizar{
+        margin: auto;
+        width: 30%;
+        height: auto;
+        text-align: left;
+        background-color: #ffffff;
+    }
+}
