@@ -144,5 +144,9 @@ h2{
 }
 
 .lista{
-    color: rgb(46, 31, 255);
+    color: rgb(255, 0, 0);
+}
+
+.lista_1{
+    color: rgb(0, 26, 255);
 }
