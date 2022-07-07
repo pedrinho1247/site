@@ -159,3 +159,8 @@ h2{
    margin: auto;
    background-color: rgb(73, 73, 73); 
 }
+
+#edital{
+    color: rgb(0, 26, 255);font-size: 16px; 
+    text-decoration: none;
+}
