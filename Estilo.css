@@ -111,6 +111,7 @@ h2{
     border-width: 7px;
   	border-style:dashed;
     margin-left: 5%;
+    margin-top: auto;
 }
 
 @media screen and (max-width: 1440px){
@@ -149,4 +150,11 @@ h2{
 
 .lista_1{
     color: rgb(0, 26, 255);
+}
+
+#linha{
+   height: 1px;
+   width: 85%;
+   margin: auto;
+   background-color: rgb(73, 73, 73); 
 }
