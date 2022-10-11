@@ -113,6 +113,7 @@ h2{
   	border-style:dashed;
     margin-left: 5%;
     margin-top: auto;
+    align-self: center;
     align-items: center;
 }
 
