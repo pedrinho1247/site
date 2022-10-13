@@ -112,8 +112,12 @@ h2{
   	border-style:dashed;
     margin-left: 5%;
     margin-top: auto;
-    align-self: center;
-    align-items: center;
+}
+
+#img_redonda{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
 }
 
 @media screen and (max-width: 1440px){
